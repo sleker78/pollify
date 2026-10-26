@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.uv-cache/
+dist/
+*.egg-info/
